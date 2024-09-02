@@ -20,7 +20,7 @@ import UndrawImg from "@/components/UndrawImg.vue";
       </p>
       <div class="flex pt-8 gap-3">
         <a
-          href="/CV/Curriculum_Ubaldo.pdf"
+          href="/CV/curriculum_ubaldo_villalba.pdf"
           target="_blank"
           download="Curriculum_Ubaldo.pdf"
           class="w-32 h-9 flex items-center justify-center text-sm font-bold rounded-2xl bg-gold text-secondary hover:bg-secondary hover:text-gold hover:border hover:border-gold">

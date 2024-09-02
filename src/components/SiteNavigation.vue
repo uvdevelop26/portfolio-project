@@ -46,7 +46,7 @@ onUnmounted(() => {
         </span>
         <p
           class="mt-2 text-white font-bold text-xs bg-primary px-3 pb-1 rounded-xl italic">
-          Desarrollo y Programación.
+          Análisis y Programación Web.
         </p>
       </div>
     </div>

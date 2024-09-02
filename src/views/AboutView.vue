@@ -17,11 +17,11 @@ import FigureOne from "@/components/FigureOne.vue";
         interactivas y visualmente atractivas. Mi stack principal comprenden las
         tecnologías
         <span class="font-bold underline">MySQL, Vue.js, y Laravel con Inertia.</span>
-        <br/> Actualmente, busco una posición de tiempo completo o una pasantía que
-        me permita ganar experiencia como desarrollador web. Estoy comprometido
-        con la formación continua, manteniéndome al día con las últimas
-        tendencias del sector. Me entusiasma enfrentar nuevos desafíos y
-        colaborar con clientes para convertir sus ideas en realidad.
+        <br />
+        Actualmente, busco una posición de tiempo completo, presencial o remoto.
+        Estoy comprometido con la formación continua, manteniéndome al día con
+        las últimas tendencias del sector. Me entusiasma enfrentar nuevos
+        desafíos y colaborar con clientes para convertir sus ideas en realidad.
       </p>
     </div>
     <FigureOne />

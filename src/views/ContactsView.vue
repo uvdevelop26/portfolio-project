@@ -26,7 +26,7 @@ const enter = (el, done) => {
     <div class="flex flex-col gap-4 max-w-2xl lg:gap-6">
       <p class="text-gold text-center font-bold max-w-lg">
         Contáctame mandando un mensaje en cualquiera de mis redes sociales,
-        enviando un correo electrónico o escribiéndome al WhatsApp +992 652991.
+        enviando un correo electrónico o escribiéndome al WhatsApp 0992 - 652991.
       </p>
       <div class="flex flex-col items-center gap-4">
         <!-- email -->
@@ -58,6 +58,20 @@ const enter = (el, done) => {
             uvbusiness24
           </a>
         </div>
+        <!-- Linkedin -->
+        <div
+          class="h-14 w-72 border-2 border-primary bg-primary rounded-md shadow-2xl hover:bg-gold group">
+          <a
+            href="https://www.linkedin.com/in/ubaldo-villalba/"
+            target="_blank"
+            class="flex w-full h-full items-center gap-2 p-3 text-gold italic font-bold group-hover:text-primary">
+            <Icon
+              name="linkedin"
+              class="w-7 h-7 fill-gold group-hover:fill-primary"
+            />
+            Ubaldo Villalba
+          </a>
+        </div>
         <!-- whatsApp -->
         <div
           class="h-14 w-72 border-2 border-primary bg-primary rounded-md shadow-2xl hover:bg-gold group">
@@ -69,7 +83,7 @@ const enter = (el, done) => {
               name="whatsapp"
               class="w-7 h-7 fill-gold group-hover:fill-primary"
             />
-            +5992 652991
+              0992 - 652991
           </a>
         </div>
       </div>

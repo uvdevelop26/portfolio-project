@@ -39,7 +39,7 @@ const enter = (el, done) => {
           </div>
         </div>
         <div class="pt-2">
-          <h2 class="font-bold text-sm text-gold italic underline">
+          <h2 class="font-bold text-sm text-gold underline">
             {{ project.name }}
           </h2>
           <div class="flex gap-3">

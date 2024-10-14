@@ -14,9 +14,7 @@ import FigureOne from "@/components/FigureOne.vue";
         <span class="font-bold underline">bases de datos</span>,
         <span class="font-bold underline">diseño y desarrollo web</span>,
         especialmente en el frontend ya que disfruto creando interfaces
-        interactivas y visualmente atractivas. Mi stack principal comprenden las
-        tecnologías
-        <span class="font-bold underline">MySQL, Vue.js, y Laravel con Inertia.</span>
+        interactivas y visualmente atractivas. 
         <br />
         Actualmente, busco una posición de tiempo completo, presencial o remoto.
         Estoy comprometido con la formación continua, manteniéndome al día con

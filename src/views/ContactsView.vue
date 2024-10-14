@@ -26,7 +26,7 @@ const enter = (el, done) => {
     <div class="flex flex-col gap-4 max-w-2xl lg:gap-6">
       <p class="text-gold text-center font-bold max-w-lg">
         Contáctame mandando un mensaje en cualquiera de mis redes sociales,
-        enviando un correo electrónico o escribiéndome al WhatsApp 0992 - 652991.
+        enviando un correo electrónico o escribiéndome al WhatsApp.
       </p>
       <div class="flex flex-col items-center gap-4">
         <!-- email -->

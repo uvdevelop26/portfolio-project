@@ -67,7 +67,7 @@ const enter = (el, done) => {
         </div>
         <h1 class="text-gold font-bold text-xl">Programación Backend</h1>
         <p class="text-xs pt-2 font-bold italic text-gold ">
-          PHP, Laravel (Integración con Paquetes como Jetstream y más).
+          PHP, Laravel (con jetStream y otros kits), Node js, Express.
           Diseño y modelado de bases de datos MySQL y PostgreSQL.
         </p>
       </div>

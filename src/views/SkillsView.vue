@@ -42,7 +42,7 @@ const enter = (el, done) => {
           <Icon name="analisis" class="inlile-block w-14 h-14 fill-secondary" />
         </div>
         <h1 class="text-secondary font-bold text-xl">Análisis de Sistemas</h1>
-        <p class="text-xs pt-2 font-bold italic text-secondary ">
+        <p class="text-xs pt-2 font-bold text-secondary ">
           Elaboración de Reglas de Negocios. Diagramas de Procesos de Negocios.
           Diagramas de Casos de Uso. Diagramas de Secuencias y/o Actividades.
         </p>
@@ -54,7 +54,7 @@ const enter = (el, done) => {
           <Icon name="frontend" class="inlile-block w-14 h-14 fill-white" />
         </div>
         <h1 class="text-gold font-bold text-xl">Programación Frontend</h1>
-        <p class="text-xs pt-2 font-bold italic text-gold ">
+        <p class="text-xs pt-2 font-bold text-gold ">
           Tecnologías HTML, CSS, JavaScript. Tailwind CSS, Bootstrap 5+. SASS. Vue.js
         </p>
       </div>
@@ -66,7 +66,7 @@ const enter = (el, done) => {
           <Icon name="backend" class="inlile-block w-14 h-14 fill-white" />
         </div>
         <h1 class="text-gold font-bold text-xl">Programación Backend</h1>
-        <p class="text-xs pt-2 font-bold italic text-gold ">
+        <p class="text-xs pt-2 font-bold text-gold ">
           PHP, Laravel (con jetStream y otros kits), Node js, Express.
           Diseño y modelado de bases de datos MySQL y PostgreSQL.
         </p>

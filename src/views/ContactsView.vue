@@ -24,7 +24,7 @@ const enter = (el, done) => {
   <section
     class="p-4 w-full bg-secondary rounded-2xl flex flex-col gap-2 lg:h-full md:p-8 lg:p-10 lg:flex-row lg:items-center">
     <div class="flex flex-col gap-4 max-w-2xl lg:gap-6">
-      <p class="text-gold text-center font-bold max-w-lg">
+      <p class="text-gold text-center max-w-lg">
         Contáctame mandando un mensaje en cualquiera de mis redes sociales,
         enviando un correo electrónico o escribiéndome al WhatsApp.
       </p>
@@ -35,7 +35,7 @@ const enter = (el, done) => {
           <a
             href="mailto:uvbusiness24@gmail.com"
             target="_blank"
-            class="flex w-full h-full items-center gap-2 p-3 text-gold italic font-bold group-hover:text-primary">
+            class="flex w-full h-full items-center gap-2 p-3 text-gold  font-bold group-hover:text-primary">
             <Icon
               name="email"
               class="w-7 h-7 fill-gold group-hover:fill-primary"
@@ -50,7 +50,7 @@ const enter = (el, done) => {
           <a
             href="https://www.instagram.com/uvbusiness24/"
             target="_blank"
-            class="flex w-full h-full items-center gap-2 p-3 text-gold italic font-bold group-hover:text-primary">
+            class="flex w-full h-full items-center gap-2 p-3 text-gold  font-bold group-hover:text-primary">
             <Icon
               name="instagram"
               class="w-7 h-7 fill-gold group-hover:fill-primary"
@@ -64,7 +64,7 @@ const enter = (el, done) => {
           <a
             href="https://www.linkedin.com/in/ubaldo-villalba/"
             target="_blank"
-            class="flex w-full h-full items-center gap-2 p-3 text-gold italic font-bold group-hover:text-primary">
+            class="flex w-full h-full items-center gap-2 p-3 text-gold  font-bold group-hover:text-primary">
             <Icon
               name="linkedin"
               class="w-7 h-7 fill-gold group-hover:fill-primary"
@@ -78,7 +78,7 @@ const enter = (el, done) => {
           <a
             href="https://www.instagram.com/uvbusiness24/"
             target="_blank"
-            class="flex w-full h-full items-center gap-2 p-3 text-gold italic font-bold group-hover:text-primary">
+            class="flex w-full h-full items-center gap-2 p-3 text-gold  font-bold group-hover:text-primary">
             <Icon
               name="whatsapp"
               class="w-7 h-7 fill-gold group-hover:fill-primary"

@@ -45,7 +45,7 @@ onUnmounted(() => {
           Ing. Ubaldo Villalba
         </span>
         <p
-          class="mt-2 text-white font-bold text-xs bg-primary px-3 pb-1 rounded-xl italic">
+          class="mt-2 text-white font-bold text-xs bg-primary px-3 pt-1 pb-1 rounded-xl">
           Análisis y Programación Web.
         </p>
       </div>

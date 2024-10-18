@@ -3,10 +3,10 @@ import { reactive } from "vue";
 const projects = reactive([
     {
         id: 1,
-        name: "Página de Ventas con SASS",
-        image: "/images/loopstudio-desktop.png",
-        github: "https://github.com/uvdevelop26/loopstudios-landing-page",
-        live: "https://uvdevelop26.github.io/loopstudios-landing-page/",
+        name: "Rastreador de IP con SASS",
+        image: "/images/ip-address-tracker.png",
+        github: "https://github.com/uvdevelop26/ip-address-tracker-master",
+        live: "https://uvdevelop26.github.io/ip-address-tracker-master/",
     },
     {
         id: 2,

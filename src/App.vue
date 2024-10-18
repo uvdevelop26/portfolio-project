@@ -4,8 +4,7 @@ import SiteNavigation from "./components/SiteNavigation.vue";
 </script>
 <template>
   <main
-    class="p-4 bg-primary w-screen font-sans h-screen flex flex-col overflow-y-auto gap-4 md:py-4 md:px-8 lg:flex-row lg:py-8"
-  >
+    class="p-4 bg-primary w-screen font-sans h-screen flex flex-col overflow-y-auto gap-4 md:py-4 md:px-8 lg:flex-row lg:py-8">
     <SiteNavigation />
 
     <!-- Inject the compoents that we call -->

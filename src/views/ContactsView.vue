@@ -76,7 +76,7 @@ const enter = (el, done) => {
         <div
           class="h-14 w-72 border-2 border-primary bg-primary rounded-md shadow-2xl hover:bg-gold group">
           <a
-            href="https://www.instagram.com/uvbusiness24/"
+            href="https://wa.me/595992652991"
             target="_blank"
             class="flex w-full h-full items-center gap-2 p-3 text-gold  font-bold group-hover:text-primary">
             <Icon

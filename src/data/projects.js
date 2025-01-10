@@ -21,6 +21,13 @@ const projects = reactive([
         image: "/images/productviewer.jpg",
         github: "https://github.com/uvdevelop26/ecomerce-product-page",
         live: "https://ecommerceproductviewer.netlify.app/",
+    },
+    {
+        id: 4,
+        name: "Detector de Anomalías Cerebrales con Vue y Node",
+        image: "/images/resonancia-project.png",
+        github: "https://github.com/uvdevelop26/resonancia-project.git",
+        live: null
     }
 ]);
 
